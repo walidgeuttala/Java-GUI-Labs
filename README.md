@@ -163,6 +163,11 @@ public class Main {
 ### 6: Inheritance
 
 **Answer**: Inheritance allows a new class to inherit properties and methods from an existing class.
+Multilevel Inheritance
+Hierarchical Inheritance
+Hybrid Inheritance
+
+Java avoids multiple inheritance of classes to prevent conflicts like the diamond problem, but interfaces provide flexibility in achieving similar outcomes.
 
 1. **Single Inheritance**: When a subclass inherits from one base class.
 
