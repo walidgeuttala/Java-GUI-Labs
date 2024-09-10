@@ -168,9 +168,10 @@ public class Main {
 
 <img src="inheritance.png" width="400" height="400">
 
-Multilevel Inheritance
-Hierarchical Inheritance
-Hybrid Inheritance
+- Single Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+- Hybrid Inheritance
 
 Java avoids multiple inheritance of classes to prevent conflicts like the diamond problem, but interfaces provide flexibility in achieving similar outcomes.
 
@@ -210,6 +211,10 @@ public class Main {
 
 Encapsulation is the process of wrapping code and data together into a single unit, for example, a class. It restricts access to data to ensure integrity.
 
+**Real Life Example**
+
+<img src="encapsulation.png" width="400" height="400">
+
 ```java
 class EncapsulationExample {
     private int data;
@@ -243,6 +248,10 @@ public class Main {
 
 Abstraction focuses on hiding the internal details and showing only essential information.
 
+**Real Life Example**
+
+<img src="abstraction.png" width="400" height="400">
+
 ```java
 abstract class Animal {
     abstract void sound();
@@ -272,6 +281,10 @@ public class Main {
 **Answer**: 
 
 Polymorphism allows one interface to be used for multiple implementations.
+
+**Real Life Example**
+
+<img src="polymorphism.png" width="400" height="400">
 
 1. **Method Overloading (Compile-time Polymorphism)**:
 
