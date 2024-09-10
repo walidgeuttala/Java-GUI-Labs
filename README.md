@@ -288,6 +288,7 @@ Polymorphism allows one interface to be used for multiple implementations.
 **Real Life Example**
 
 <img src="polymorphism.png" width="400" height="400">
+<img src="polymorphism2.png" width="400" height="400">
 
 1. **Method Overloading (Compile-time Polymorphism)**:
 
