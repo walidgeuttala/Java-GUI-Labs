@@ -153,10 +153,8 @@ public class Main {
 
 **Answer**: The four main pillars of OOP are:
 
-1. Encapsulation
-2. Inheritance
-3. Abstraction
-4. Polymorphism
+<img src="pillars.jpe" width="400" height="400">
+
 
 ---
 
