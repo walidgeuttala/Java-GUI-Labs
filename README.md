@@ -163,6 +163,11 @@ public class Main {
 ### 6: Inheritance
 
 **Answer**: Inheritance allows a new class to inherit properties and methods from an existing class.
+
+**Real Life Example**
+
+<img src="inheritance.png" width="400" height="400">
+
 Multilevel Inheritance
 Hierarchical Inheritance
 Hybrid Inheritance
