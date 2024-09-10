@@ -1,4 +1,4 @@
-# Java-GUI-Labs
+# Java-GUI-Labs (Note for me gowi)
 
 # Object Oriented Programming Notes - Last Minute Revision :white_check_mark:
 
