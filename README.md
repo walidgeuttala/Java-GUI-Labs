@@ -252,7 +252,8 @@ Abstraction focuses on hiding the internal details and showing only essential in
 
 **You don’t need to know how the coffee machine works to press the button and get coffee.**
 
-![Coffee Machine vs French Press](https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Feu32kds59xn5ga49urag.gif)
+
+<img src="https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Feu32kds59xn5ga49urag.gif" width="400" height="400" alt="Coffee Machine vs French Press">
 
 ```java
 abstract class Animal {
