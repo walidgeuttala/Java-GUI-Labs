@@ -250,6 +250,8 @@ Abstraction focuses on hiding the internal details and showing only essential in
 
 <img src="abstraction.png" width="400" height="400">
 
+![Coffee Machine vs French Press](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)
+
 ```java
 abstract class Animal {
     abstract void sound();
