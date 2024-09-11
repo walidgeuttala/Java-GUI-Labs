@@ -22,6 +22,8 @@ Here are some last-minute revision notes on object-oriented programming (OOP). T
 
 **Object**: An object is an instance of a class. When a class is defined, no memory is allocated, but memory is allocated when an object of that class is instantiated.
 
+<img src="class_object.png" width="400" height="400">
+
 ```java
 class Person {
     // Data Members
